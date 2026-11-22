@@ -1,0 +1,11 @@
+CNC-Kalkulator Cloud-Version
+
+1. Die 5 Web-App-Dateien (index.html, manifest.webmanifest, service-worker.js, icon-192.png, icon-512.png) in GitHub hochladen.
+2. App aufrufen.
+3. Im Bereich Supabase die Project URL aus dem Supabase-Dashboard eintragen.
+4. Publishable Key ist bereits eingetragen.
+5. Mit dem unter Supabase Authentication angelegten E-Mail-Konto anmelden.
+6. Projekte speichern und synchronisieren.
+
+Die App verwendet public.cnc_cloud_projects. Diese Tabelle wurde bereits im SQL Editor angelegt.
+Achtung: Offline-Aenderungen auf mehreren Geraeten koennen bei gleichzeitiger Bearbeitung zu Konflikten fuehren. Regelmaessig JSON-Backup erstellen.

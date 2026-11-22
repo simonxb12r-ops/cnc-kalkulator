@@ -1,0 +1,2 @@
+-- Bereits in Supabase eingerichtet: public.cnc_cloud_projects.
+-- Bitte dieses SQL nicht erneut ausfuehren.
